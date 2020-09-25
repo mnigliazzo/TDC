@@ -2,8 +2,8 @@
 
 ## Calculos
 
-![NivelLexico](.\img\Calculos.jpg)
+![Calculos](\img\Calculos.jpg)
 
 ## Respuesta Impulso
 
-![NivelLexico](.\img\RespuestaImpulso.jpg)
+![RespuestaImpulso](\img\RespuestaImpulso.jpg)
