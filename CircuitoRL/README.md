@@ -2,8 +2,8 @@
 
 ## Calculos
 
-![Calculos](\img\Calculos.jpg)
+![Calculos](./img/Calculos.jpg)
 
 ## Respuesta Impulso
 
-![RespuestaImpulso](\img\RespuestaImpulso.jpg)
+![RespuestaImpulso](./img/RespuestaImpulso.jpg)
